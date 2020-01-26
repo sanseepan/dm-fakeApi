@@ -1,0 +1,6 @@
+# dm-fakeApi
+
+# download the 'products.json' file
+# install json server from 'npm install -g json-server'
+# start the server 'json-server --watch products.json'
+# more info visit 'https://www.npmjs.com/package/json-server'
